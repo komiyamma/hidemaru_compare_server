@@ -1,0 +1,2 @@
+# hidemaru_compare_server
+hidemaru_compare_server
